@@ -433,6 +433,6 @@ The interface is aesthetically functionally all the time creating a positive rea
 8. As the Owner/Admin User I want to post or respond to messages in the Chat feature.
 9. As the Owner/Admin User I want control over material posted on the site for legal and other purposes.
 
-All User Stories testing is covered in the Shot Caller Production Testing page. [Testing](/TESTING.md)
+All User Stories testing is covered here. [Testing](https://github.com/johnston9/Testing-Shot-Caller-Production/blob/main/TESTING.md)
 
 [Back to Table of Content](#table-of-content)
