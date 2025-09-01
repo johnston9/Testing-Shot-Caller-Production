@@ -301,8 +301,8 @@ sqlparse==0.4.2 <br>
 
 ### Dependencies for the Shot Caller Production React Frontend
 
-"@emotion/react": "^11.13.3",
-    "@emotion/styled": "^11.13.0",
+    "@emotion/react": "^11.13.3", <br>
+    "@emotion/styled": "^11.13.0", <br>
     "@mantine/core": "^6.0.17",
     "@mantine/dates": "^6.0.17",
     "@mantine/form": "^6.0.17",
