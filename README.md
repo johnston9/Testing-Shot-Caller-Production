@@ -11,7 +11,7 @@ A Film, TV, and Video Production Platform. The Platform includes Budgeting Softw
 "Shot caller" runs the Platform while the Budgeting software is held on “Shot Caller Production”. <br> 
 
 This is the backend for Shot Caller Production. You may find the testing here.
-[Shot Caller Production Testing](https://github.com/johnston9/shot-caller-production/blob/main/TESTING.md)
+[Shot Caller Production Testing](https://github.com/johnston9/Testing-Shot-Caller-Production/blob/main/TESTING.md)
 <br>
 
 The Platform contain both the Creative and the Production sides of media production.<br>
@@ -64,13 +64,13 @@ There is no installation needed and no requirements for the app. If a User has a
 Find these here. [Shot Caller Readme](https://github.com/johnston9/shot-caller/blob/main/README.md)
 
 ## Features testing
-All Features testing is covered on the Shot Caller Production Frontend Testing page. [Testing](https://github.com/johnston9/shot-caller-production/blob/main/TESTING.md)
+All Features testing is covered here. [Testing](https://github.com/johnston9/Testing-Shot-Caller-Production/blob/main/TESTING.md)
 
 [Back to Table of Content](#table-of-content)
 
 ## Permissions
 
-Depending on their Premissions Users will has access to use different features of the app. 
+Depending on their Permissions Users will has access to use different features of the app. 
 Find these here. [Shot Caller Readme](https://github.com/johnston9/shot-caller/blob/main/README.md)
 
 ## Information Architecture
@@ -183,8 +183,8 @@ The React Dependencies and DRF Requirements can be found in the Deployment secti
 [Back to Table of Content](#table-of-content)
 
 ## Testing
-- For the complete coverage of the Features testing go to the Testing page.
-[Shot Caller Production Yesting](https://github.com/johnston9/shot-caller-production/blob/main/TESTING.md)
+- Find the complete testing coverage here.
+[Shot Caller Production Testing](https://github.com/johnston9/Testing-Shot-Caller-Production/blob/main/TESTING.md)
 
 All functionality was tested as it was being built to ensure there were no errors, that it did what it was meant to do and that all database errors were handled correctly. <br> 
 
@@ -276,9 +276,9 @@ sqlparse==0.4.2 <br>
 - [Django Rest Framework](https://www.django-rest-framework.org/)
 Django Rest Framework documents was referred to for a number of backend issues in the project.
 - [stackoverflow.com](https://stackoverflow.com/questions/45380397/scrollable-drop-down-lists-in-react-bootstrap)
-Stack Overflow was referred to to check out different approaches for some issues including the Regex to allow only numbers and a decimal point in some Budget input boxes and how to add a scroll to a React dropdown.
+Stack Overflow was referred to for different approaches to some issues including the Regex to allow only numbers and a decimal point in some Budget input boxes and how to add a scroll to a React dropdown.
 - [w3schools.com](https://www.w3schools.com/)
-W3schools was referred a number of times for Javascript code examples.
+W3schools was referred to a number of times for Javascript code examples.
   
 ### Content
 
@@ -303,7 +303,7 @@ The photos used for the images in the site were obtained from:
 ## User Experience (UX)
 The business goals are to establish the app as a professional film production software platform, to create an online presence and to entice Users to register and purchase products.<br>
 
-The User goals are to find out about the software, register an account, access their Account page to create and view their projects and use the  "Software".
+The User goals are to find out about the software, register an account, access their Account page to create and view their projects and use the "Software".
 
 ### Strategy Plane
 
