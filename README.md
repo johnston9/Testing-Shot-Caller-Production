@@ -301,34 +301,34 @@ sqlparse==0.4.2 <br>
 
 ### Dependencies for the Shot Caller Production React Frontend
 
-    "@emotion/react": "^11.13.3", <br>
-    "@emotion/styled": "^11.13.0", <br>
-    "@mantine/core": "^6.0.17",<br>
-    "@mantine/dates": "^6.0.17",<br>
-    "@mantine/form": "^6.0.17",<br>
-    "@mantine/hooks": "^6.0.17",<br>
-    "@mantine/modals": "^6.0.17",<br>
-    "@mui/material": "^6.0.1",<br>
-    "@stripe/react-stripe-js": "^2.8.0",<br>
-    "@stripe/stripe-js": "^4.3.0",<br>
-    "@tanstack/react-table": "^8.20.5",<br>
-    "@testing-library/jest-dom": "^5.16.5",<br>
-    "@testing-library/react": "^11.2.7",<br>
-    "@testing-library/user-event": "^12.8.3",<br>
-    "axios": "^0.21.4",<br>
-    "bootstrap": "^4.6.0",<br>
-    "dayjs": "^1.11.9",<br>
-    "html2canvas": "^1.4.1",<br>
-    "jspdf": "^2.5.2",<br>
-    "jwt-decode": "^3.1.2",<br>
-    "react": "^17.0.2",<br>
-    "react-bootstrap": "^1.6.3",<br>
-    "react-dom": "^17.0.2",<br>
-    "react-hot-toast": "^2.4.1",<br>
-    "react-infinite-scroll-component": "^6.1.0",<br>
-    "react-router-dom": "^5.3.0",<br>
-    "react-scripts": "^4.0.3",<br>
-    "web-vitals": "^1.1.2",<br>
+"@emotion/react": "^11.13.3", <br>
+"@emotion/styled": "^11.13.0", <br>
+"@mantine/core": "^6.0.17",<br>
+"@mantine/dates": "^6.0.17",<br>
+"@mantine/form": "^6.0.17",<br>
+"@mantine/hooks": "^6.0.17",<br>
+"@mantine/modals": "^6.0.17",<br>
+"@mui/material": "^6.0.1",<br>
+"@stripe/react-stripe-js": "^2.8.0",<br>
+"@stripe/stripe-js": "^4.3.0",<br>
+"@tanstack/react-table": "^8.20.5",<br>
+"@testing-library/jest-dom": "^5.16.5",<br>
+"@testing-library/react": "^11.2.7",<br>
+"@testing-library/user-event": "^12.8.3",<br>
+"axios": "^0.21.4",<br>
+"bootstrap": "^4.6.0",<br>
+"dayjs": "^1.11.9",<br>
+"html2canvas": "^1.4.1",<br>
+"jspdf": "^2.5.2",<br>
+"jwt-decode": "^3.1.2",<br>
+"react": "^17.0.2",<br>
+"react-bootstrap": "^1.6.3",<br>
+"react-dom": "^17.0.2",<br>
+"react-hot-toast": "^2.4.1",<br>
+"react-infinite-scroll-component": "^6.1.0",<br>
+"react-router-dom": "^5.3.0",<br>
+"react-scripts": "^4.0.3",<br>
+"web-vitals": "^1.1.2",<br>
  
 
 [Back to Table of Content](#table-of-content)
